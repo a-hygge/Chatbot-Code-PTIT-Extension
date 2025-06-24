@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "Hướng dẫn nghiệp vụ Code PTIT",
+  "version": "1.2",
+  "description": "Tự động chèn chatbot hướng dẫn nghiệp vụ vào trang web.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "http://localhost:5000/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [ "icon.png" ],
+      "matches": [ "https://code.ptit.edu.vn/*" ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://code.ptit.edu.vn/*"
+      ],
+      "css": [ "style.css" ],
+      "js": [ "injector.js" ]
+    }
+  ],
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "Hướng dẫn nghiệp vụ"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}

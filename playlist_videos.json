@@ -1,0 +1,112 @@
+[
+  {
+    "title": "1. Hướng dẫn Canvas LMS - Hướng dẫn giáo viên tạo Calendar cho lớp học",
+    "link": "https://www.youtube.com/watch?v=Mu54mQnBbnY",
+    "description": "Hướng dẫn chi tiết cho giáo viên cách sử dụng công cụ Lịch (Calendar) để tạo và quản lý các sự kiện, thông báo hạn nộp bài tập và sắp xếp lịch trình quan trọng của khóa học, giúp sinh viên dễ dàng theo dõi và nắm bắt thông tin."
+  },
+  {
+    "title": "2. Hướng dẫn Canvas LMS - Tạo nhóm học (Group) để tổ chức làm bài, thảo luận",
+    "link": "https://www.youtube.com/watch?v=Rdj-4VN9kRo",
+    "description": "Video hướng dẫn cách tạo và quản lý các nhóm học tập (Groups). Tính năng này cho phép giáo viên tổ chức cho sinh viên làm bài tập nhóm, thảo luận chuyên đề và thúc đẩy sự hợp tác hiệu quả trong học tập."
+  },
+  {
+    "title": "3. Hướng dẫn Canvas LMS - Tạo Section/Các phần, phân ca học và quản lý điểm",
+    "link": "https://www.youtube.com/watch?v=EVJpqenc7nY",
+    "description": "Hướng dẫn cách chia lớp học thành các Section (phân lớp/ca học) khác nhau để quản lý sinh viên và điểm số một cách độc lập, đặc biệt hữu ích cho các lớp có nhiều ca học hoặc nhóm đối tượng khác nhau."
+  },
+  {
+    "title": "4. Hướng dẫn Canvas LMS - Cách tạo lớp học trực tuyến với BigBlueButton cho Giáo Viên",
+    "link": "https://www.youtube.com/watch?v=BfA-txOCLQM",
+    "description": "Hướng dẫn các bước tích hợp và sử dụng BigBlueButton để tạo các buổi học trực tuyến (virtual classroom) ngay trên Canvas LMS, với đầy đủ các tính năng như chia sẻ màn hình, bảng trắng, chat và ghi lại buổi học."
+  },
+  {
+    "title": "5. Hướng dẫn Canvas LMS - Tạo Kết quả (Outcome) & Gắn Vào Bảng đánh giá theo tiêu chí (Rubric)",
+    "link": "https://www.youtube.com/watch?v=RbL_UTF8Gd4",
+    "description": "Tìm hiểu cách tạo và quản lý các Chuẩn đầu ra (Outcomes) của khóa học và liên kết chúng với Bảng đánh giá (Rubric). Tính năng này giúp theo dõi sự tiến bộ của sinh viên theo từng mục tiêu học tập cụ thể."
+  },
+  {
+    "title": "6. Hướng dẫn Canvas LMS - Tạo ngân hàng câu hỏi",
+    "link": "https://www.youtube.com/watch?v=8bbwGMPMb5I",
+    "description": "Hướng dẫn chi tiết cách tạo và quản lý Ngân hàng câu hỏi (Question Banks). Tính năng này cho phép giáo viên lưu trữ, phân loại và tái sử dụng câu hỏi cho các bài kiểm tra, giúp tiết kiệm thời gian và tạo đề thi đa dạng."
+  },
+  {
+    "title": "7. Hướng dẫn Canvas LMS - Hướng dẫn sử dụng cho học sinh",
+    "link": "https://www.youtube.com/watch?v=hg_5KIuz7bw",
+    "description": "Video tổng quan dành cho học sinh, giới thiệu các tính năng chính của Canvas LMS như cách truy cập khóa học, xem tài liệu, nộp bài tập, tham gia thảo luận và theo dõi điểm số cá nhân."
+  },
+  {
+    "title": "8. Hướng dẫn Canvas LMS - Tạo nhóm điểm & Tự động tính điểm cuối kỳ",
+    "link": "https://www.youtube.com/watch?v=jB1XfEbPmfQ",
+    "description": "Hướng dẫn cách thiết lập các nhóm điểm (ví dụ: điểm chuyên cần, điểm giữa kỳ, điểm cuối kỳ) và cài đặt trọng số cho từng nhóm để hệ thống tự động tính toán điểm tổng kết cuối kỳ cho sinh viên một cách chính xác."
+  },
+  {
+    "title": "9. Hướng dẫn Cavas LMS - Tạo bảng đánh giá theo tiêu chí",
+    "link": "https://www.youtube.com/watch?v=Yz7DOF5bZpc",
+    "description": "Hướng dẫn các bước xây dựng một Bảng đánh giá theo tiêu chí (Rubric) chi tiết để chấm điểm bài tập, bài luận. Rubric giúp việc chấm bài trở nên minh bạch, nhất quán và giúp sinh viên hiểu rõ yêu cầu của giảng viên."
+  },
+  {
+    "title": "10. Hướng dẫn Canvas LMS - Tạo thông báo và thảo luận",
+    "link": "https://www.youtube.com/watch?v=n8e8A1lQVS8",
+    "description": "Hướng dẫn cách sử dụng công cụ Thông báo (Announcements) để gửi tin tức quan trọng đến toàn bộ lớp học và cách tạo các Diễn đàn thảo luận (Discussions) để khuyến khích sự tương tác, trao đổi kiến thức giữa các sinh viên."
+  },
+  {
+    "title": "11. Hướng dẫn Canvas LMS - Chấm điểm, phản hồi và gửi tin nhắn đến sinh viên",
+    "link": "https://www.youtube.com/watch?v=TofWrIdQqYY",
+    "description": "Hướng dẫn sử dụng công cụ SpeedGrader để chấm điểm bài tập, đưa ra nhận xét, phản hồi chi tiết và gửi tin nhắn trực tiếp cho sinh viên, giúp quá trình đánh giá hiệu quả và mang tính cá nhân hóa."
+  },
+  {
+    "title": "12. Hướng dẫn Canvas LMS - Đăng ký tài khoản học sinh và phụ huynh",
+    "link": "https://www.youtube.com/watch?v=GqQvAPhQZLU",
+    "description": "Hướng dẫn quy trình đăng ký tài khoản mới trên hệ thống Canvas LMS dành cho học sinh và tài khoản Quan sát viên (Observer) dành cho phụ huynh để có thể theo dõi tiến trình học tập của con em."
+  },
+  {
+    "title": "13. Hướng dẫn Canvas LMS - Tạo bài tập (Assignment)",
+    "link": "https://www.youtube.com/watch?v=yNH_dhwD0wM",
+    "description": "Hướng dẫn chi tiết các bước để tạo một bài tập mới, bao gồm việc đặt tiêu đề, viết hướng dẫn, thiết lập ngày hết hạn, định dạng nộp bài (online hoặc trên giấy) và cài đặt điểm số."
+  },
+  {
+    "title": "14. Hướng dẫn Canvas LMS - Tổ chức nội dung khóa học bằng Module",
+    "link": "https://www.youtube.com/watch?v=_Q1fHUg2o5Y",
+    "description": "Tìm hiểu cách sử dụng Modules để sắp xếp và tổ chức toàn bộ nội dung khóa học (bài giảng, tài liệu, bài tập, bài kiểm tra) một cách logic theo tuần, chương hoặc chủ đề, giúp sinh viên dễ dàng theo dõi tiến trình học tập."
+  },
+  {
+    "title": "15. Hướng dẫn Canvas LMS - Upload bài giảng và tài liệu",
+    "link": "https://www.youtube.com/watch?v=pPzG1wx6LCA",
+    "description": "Hướng dẫn cách tải lên (upload) và quản lý các loại tài liệu học tập khác nhau như file PDF, Word, PowerPoint, video vào khóa học để sinh viên có thể truy cập và sử dụng."
+  },
+  {
+    "title": "16. Hướng dẫn Canvas LMS - Tạo học kỳ và thêm hàng loạt khóa học vào học kỳ",
+    "link": "https://www.youtube.com/watch?v=5sobVP74S5Q",
+    "description": "Hướng dẫn dành cho quản trị viên về cách tạo các học kỳ (Terms) trong năm học và cách thêm đồng loạt nhiều khóa học vào một học kỳ cụ thể để tiện cho việc quản lý và tổ chức."
+  },
+  {
+    "title": "17. Hướng Dẫn Canvas LMS - Tạo Học Sinh Hàng Loạt và Thêm Vào Khóa Học Trên Canvas LMS",
+    "link": "https://www.youtube.com/watch?v=XswMNAbg-LM",
+    "description": "Hướng dẫn quản trị viên cách nhập (import) danh sách nhiều học sinh cùng lúc vào hệ thống và ghi danh hàng loạt học sinh đó vào các khóa học tương ứng, giúp tiết kiệm thời gian thiết lập đầu năm học."
+  },
+  {
+    "title": "18. Hướng dẫn Canvas LMS - Tạo Câu Hỏi Ngẫu Nhiên và Tìm Câu Hỏi Từ Ngân Hàng",
+    "link": "https://www.youtube.com/watch?v=nk5N8xBLdO4",
+    "description": "Hướng dẫn nâng cao về cách tạo bài kiểm tra có các câu hỏi được lấy ngẫu nhiên từ Ngân hàng câu hỏi (Question Bank), giúp tạo ra các đề thi khác nhau cho mỗi sinh viên và hạn chế gian lận."
+  },
+  {
+    "title": "19. Hướng dẫn Canvas LMS - Sao chép học phần và tài liệu giữa các lớp học",
+    "link": "https://www.youtube.com/watch?v=blwRKVWVJQQ",
+    "description": "Hướng dẫn cách sao chép (copy) toàn bộ hoặc một phần nội dung (tài liệu, bài tập, module) từ một khóa học đã có sang một khóa học mới, giúp giáo viên tiết kiệm tối đa thời gian khi chuẩn bị cho học kỳ mới."
+  },
+  {
+    "title": "20. Hướng dẫn Canvas LMS - Thay đổi hình thu nhỏ cho khóa học Canvas",
+    "link": "https://www.youtube.com/watch?v=CCLPr4VHjNY",
+    "description": "Hướng dẫn một thủ thuật đơn giản giúp giáo viên cá nhân hóa khóa học của mình bằng cách thay đổi hình ảnh đại diện (thumbnail) trên trang Dashboard, giúp khóa học trở nên sinh động và dễ nhận biết hơn."
+  },
+  {
+    "title": "21. Canvas LMS Hướng dẫn đăng nhập và tạo khóa học mới và Copy nội dung của khóa học",
+    "link": "https://www.youtube.com/watch?v=aypfqncoKTI",
+    "description": "Video hướng dẫn cơ bản từ A-Z: chỉ dẫn cách đăng nhập vào hệ thống, các bước để tạo một khóa học hoàn toàn mới và cách sao chép nội dung từ một khóa học đã tồn tại."
+  },
+  {
+    "title": "22. Phần mềm quản lý đào tạo | Dạy Học trực tuyến tốt nhất Canvas LMS | CloudX",
+    "link": "https://www.youtube.com/watch?v=KPU_Ox0_Wq4",
+    "description": "Video giới thiệu tổng quan về Canvas LMS như một giải pháp quản lý đào tạo và dạy học trực tuyến toàn diện. Video nêu bật các tính năng và lợi ích chính mà hệ thống mang lại cho nhà trường, giáo viên và học sinh."
+  }
+]
