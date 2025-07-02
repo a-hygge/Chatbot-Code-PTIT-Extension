@@ -4,7 +4,8 @@
   "version": "1.2",
   "description": "Tự động chèn chatbot hướng dẫn nghiệp vụ vào trang web.",
   "permissions": [
-    "storage"
+    "storage",
+    "activeTab"
   ],
   "host_permissions": [
     "http://localhost:5000/*"

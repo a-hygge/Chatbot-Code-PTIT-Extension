@@ -1,0 +1,137 @@
+2025-07-02 15:19:27,343 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.170.59.210:5000
+2025-07-02 15:19:27,346 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-02 15:19:27,349 - INFO -  * Restarting with stat
+2025-07-02 15:19:29,021 - WARNING -  * Debugger is active!
+2025-07-02 15:19:29,029 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 15:35:50,484 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 15:35:50,712 - INFO -  * Restarting with stat
+2025-07-02 15:35:52,885 - WARNING -  * Debugger is active!
+2025-07-02 15:35:52,898 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 15:35:59,990 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\link.py', reloading
+2025-07-02 15:36:00,188 - INFO -  * Restarting with stat
+2025-07-02 15:36:02,321 - WARNING -  * Debugger is active!
+2025-07-02 15:36:02,333 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 15:37:33,004 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 15:37:33,221 - INFO -  * Restarting with stat
+2025-07-02 15:37:35,114 - WARNING -  * Debugger is active!
+2025-07-02 15:37:35,122 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 15:37:42,179 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\link.py', reloading
+2025-07-02 15:37:42,362 - INFO -  * Restarting with stat
+2025-07-02 15:37:44,452 - WARNING -  * Debugger is active!
+2025-07-02 15:37:44,457 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 15:38:43,920 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\server.py', reloading
+2025-07-02 15:38:44,087 - INFO -  * Restarting with stat
+2025-07-02 15:38:45,713 - WARNING -  * Debugger is active!
+2025-07-02 15:38:45,728 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 15:59:23,917 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.170.59.210:5000
+2025-07-02 15:59:23,917 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-02 15:59:23,919 - INFO -  * Restarting with stat
+2025-07-02 15:59:25,534 - WARNING -  * Debugger is active!
+2025-07-02 15:59:25,541 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:00:00,008 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:00] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:00:00,271 - INFO - Nhận được câu hỏi từ client: 'Hướng dẫn giáo viên tạo Calendar'
+2025-07-02 16:00:02,670 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:02] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:00:08,745 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:08] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:00:09,057 - INFO - Nhận được câu hỏi từ client: 'hi'
+2025-07-02 16:00:10,583 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:10] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:00:22,534 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:22] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:00:22,848 - INFO - Nhận được câu hỏi từ client: 'đăng  nhập'
+2025-07-02 16:00:24,807 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:24] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:00:32,942 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:32] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:00:33,255 - INFO - Nhận được câu hỏi từ client: 'tên tôi'
+2025-07-02 16:00:35,105 - INFO - 127.0.0.1 - - [02/Jul/2025 16:00:35] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:03:23,482 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\server.py', reloading
+2025-07-02 16:03:25,691 - INFO -  * Restarting with stat
+2025-07-02 16:03:27,652 - WARNING -  * Debugger is active!
+2025-07-02 16:03:27,661 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:03:49,091 - INFO - 127.0.0.1 - - [02/Jul/2025 16:03:49] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:03:49,339 - INFO - Nhận được câu hỏi từ client: 'Hướng dẫn giáo viên tạo Calendar'
+2025-07-02 16:03:51,884 - INFO - 127.0.0.1 - - [02/Jul/2025 16:03:51] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:05:08,374 - INFO - 127.0.0.1 - - [02/Jul/2025 16:05:08] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:05:08,639 - INFO - Nhận được câu hỏi từ client: 'tạo bài tập'
+2025-07-02 16:05:10,738 - INFO - 127.0.0.1 - - [02/Jul/2025 16:05:10] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:09:07,557 - INFO - 127.0.0.1 - - [02/Jul/2025 16:09:07] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:09:07,822 - INFO - Nhận được câu hỏi từ client: 'chấm điểm'
+2025-07-02 16:09:09,781 - INFO - 127.0.0.1 - - [02/Jul/2025 16:09:09] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:11:13,017 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:11:15,213 - INFO -  * Restarting with stat
+2025-07-02 16:11:17,189 - WARNING -  * Debugger is active!
+2025-07-02 16:11:17,201 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:11:28,387 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:11:28,560 - INFO -  * Restarting with stat
+2025-07-02 16:11:30,313 - WARNING -  * Debugger is active!
+2025-07-02 16:11:30,324 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:12:51,312 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:12:51,480 - INFO -  * Restarting with stat
+2025-07-02 16:12:53,277 - WARNING -  * Debugger is active!
+2025-07-02 16:12:53,286 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:17:05,279 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:17:05,450 - INFO -  * Restarting with stat
+2025-07-02 16:17:07,404 - WARNING -  * Debugger is active!
+2025-07-02 16:17:07,413 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:17:21,602 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:17:21,771 - INFO -  * Restarting with stat
+2025-07-02 16:17:23,558 - WARNING -  * Debugger is active!
+2025-07-02 16:17:23,566 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:17:37,738 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:17:37,950 - INFO -  * Restarting with stat
+2025-07-02 16:17:39,847 - WARNING -  * Debugger is active!
+2025-07-02 16:17:39,856 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:19:45,352 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:19:45,544 - INFO -  * Restarting with stat
+2025-07-02 16:19:47,200 - WARNING -  * Debugger is active!
+2025-07-02 16:19:47,207 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:20:07,544 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:20:07,714 - INFO -  * Restarting with stat
+2025-07-02 16:20:09,332 - WARNING -  * Debugger is active!
+2025-07-02 16:20:09,340 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:20:29,642 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:20:29,777 - INFO -  * Restarting with stat
+2025-07-02 16:20:31,746 - WARNING -  * Debugger is active!
+2025-07-02 16:20:31,756 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:20:47,001 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:20:47,194 - INFO -  * Restarting with stat
+2025-07-02 16:20:49,233 - WARNING -  * Debugger is active!
+2025-07-02 16:20:49,241 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:22:19,346 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:22:19,508 - INFO -  * Restarting with stat
+2025-07-02 16:22:21,502 - WARNING -  * Debugger is active!
+2025-07-02 16:22:21,512 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:22:27,655 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.170.59.210:5000
+2025-07-02 16:22:27,655 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-02 16:22:27,658 - INFO -  * Restarting with stat
+2025-07-02 16:22:29,307 - WARNING -  * Debugger is active!
+2025-07-02 16:22:29,317 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:22:48,741 - INFO - 127.0.0.1 - - [02/Jul/2025 16:22:48] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:22:48,993 - INFO - Nhận được câu hỏi từ client: 'tạo bài tập'
+2025-07-02 16:22:52,040 - INFO - 127.0.0.1 - - [02/Jul/2025 16:22:52] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:23:00,116 - INFO - 127.0.0.1 - - [02/Jul/2025 16:23:00] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:23:00,434 - INFO - Nhận được câu hỏi từ client: 'chấm điểm'
+2025-07-02 16:23:02,656 - INFO - 127.0.0.1 - - [02/Jul/2025 16:23:02] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:23:06,556 - INFO - 127.0.0.1 - - [02/Jul/2025 16:23:06] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:23:06,869 - INFO - Nhận được câu hỏi từ client: 'tạo lĩh'
+2025-07-02 16:23:13,772 - INFO - 127.0.0.1 - - [02/Jul/2025 16:23:13] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:23:32,544 - INFO - 127.0.0.1 - - [02/Jul/2025 16:23:32] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:23:32,851 - INFO - Nhận được câu hỏi từ client: 'Hướng dẫn giáo viên tạo Calendar'
+2025-07-02 16:23:35,192 - INFO - 127.0.0.1 - - [02/Jul/2025 16:23:35] "POST /api/chat HTTP/1.1" 200 -
+2025-07-02 16:24:35,904 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:24:36,095 - INFO -  * Restarting with stat
+2025-07-02 16:24:36,184 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:24:37,918 - WARNING -  * Debugger is active!
+2025-07-02 16:24:37,927 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:24:38,353 - INFO -  * Restarting with stat
+2025-07-02 16:24:40,484 - WARNING -  * Debugger is active!
+2025-07-02 16:24:40,492 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:25:12,851 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:25:12,989 - INFO -  * Restarting with stat
+2025-07-02 16:25:13,340 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
+2025-07-02 16:25:13,498 - INFO -  * Restarting with stat

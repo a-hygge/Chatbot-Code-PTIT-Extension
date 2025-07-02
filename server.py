@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import os
 import logging
 from datetime import datetime
@@ -8,7 +6,6 @@ from flask_cors import CORS
 
 import chatbot
 
-# --- Cấu hình Logging ---
 if not os.path.exists('logs'):
     os.makedirs('logs')
 log_filename = os.path.join('logs', f'server_{datetime.now().strftime("%Y%m%d")}.log')
@@ -22,20 +19,15 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# --- Khởi tạo Flask App và CORS ---
 app = Flask(__name__)
-CORS(app) # Cách đơn giản nhất để cho phép CORS
+CORS(app) 
 
-# ==============================================================================
-# SỬA ĐỔI QUAN TRỌNG: Xử lý cả 'POST' và 'OPTIONS'
-# ==============================================================================
 @app.route('/api/chat', methods=['POST', 'OPTIONS'])
 def handle_chat():
-    # Khi trình duyệt gửi yêu cầu OPTIONS, ta chỉ cần trả về OK.
     if request.method == 'OPTIONS':
         return jsonify({'status': 'ok'}), 200
 
-    # Nếu là POST, xử lý như bình thường
+
     if request.method == 'POST':
         try:
             data = request.json
@@ -61,7 +53,7 @@ def health_check():
 
 if __name__ == '__main__':
     print("=" * 60)
-    print("🤖     CHATBOT SERVER TƯ VẤN NGHIỆP VỤ Code PTIT     🤖")
+    print("     CHATBOT SERVER TƯ VẤN NGHIỆP VỤ Code PTIT     ")
     print("=" * 60)
     print(f"Server đang chạy tại: http://127.0.0.1:5000")
     app.run(host='0.0.0.0', port=5000, debug=True)

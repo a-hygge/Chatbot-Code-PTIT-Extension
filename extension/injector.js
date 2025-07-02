@@ -4,7 +4,6 @@
 
   if (document.getElementById(TOGGLE_BUTTON_ID)) return;
 
-  // --- TẠO GIAO DIỆN ---
   const toggleButton = document.createElement('div');
   toggleButton.id = TOGGLE_BUTTON_ID;
   toggleButton.textContent = 'HD';
@@ -14,7 +13,6 @@
   chatContainer.id = CHAT_ID;
   chatContainer.className = 'chat-container';
   
-  // Sửa lỗi: Cung cấp đầy đủ nội dung HTML, bao gồm cả các div .resizer
   chatContainer.innerHTML = `
     <div id="chat-header">
       <span class="header-title">Hướng dẫn nghiệp vụ</span>
@@ -158,7 +156,6 @@
   const chatHeader = document.getElementById("chat-header");
   chatHeader.addEventListener("mousedown", (e) => { if (e.target.closest('.header-btn') || e.target.classList.contains('resizer')) return; const rect = chatContainer.getBoundingClientRect(); const initialX = e.clientX - rect.left; const initialY = e.clientY - rect.top; let isDragging = true; function onMouseMove(e) { if (!isDragging) return; let newX = e.clientX - initialX; let newY = e.clientY - initialY; newX = Math.max(0, Math.min(newX, window.innerWidth - rect.width)); newY = Math.max(0, Math.min(newY, window.innerHeight - rect.height)); chatContainer.style.left = `${newX}px`; chatContainer.style.top = `${newY}px`; chatContainer.style.right = 'auto'; chatContainer.style.bottom = 'auto'; } function onMouseUp() { isDragging = false; document.removeEventListener('mousemove', onMouseMove); document.removeEventListener('mouseup', onMouseUp); } document.addEventListener('mousemove', onMouseMove); document.addEventListener('mouseup', onMouseUp); });
 
-  // === LOGIC THAY ĐỔI KÍCH THƯỚC ===
   function initResize(e) {
     const resizer = e.target;
     let startX = e.clientX;

@@ -19,11 +19,11 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         video_info = {
             "title": f"{index}. {entry.get('title')}",
             "link": f"https://www.youtube.com/watch?v={entry.get('id')}",
-            "description": ""  # Nếu cần mô tả thì cần chạy lại với extract_flat=False
+            "description": "" 
         }
         video_list.append(video_info)
 
 with open("playlist_videos.json", "w", encoding="utf-8") as f:
     json.dump(video_list, f, indent=2, ensure_ascii=False)
 
-print("✅ Đã lưu xong playlist_videos.json")
+print("Đã lưu xong playlist_videos.json")
