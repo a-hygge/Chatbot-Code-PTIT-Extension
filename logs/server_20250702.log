@@ -135,3 +135,10 @@
 2025-07-02 16:25:12,989 - INFO -  * Restarting with stat
 2025-07-02 16:25:13,340 - INFO -  * Detected change in 'D:\\ChatbotPtit\\Nghiepvu\\version2\\chatbot.py', reloading
 2025-07-02 16:25:13,498 - INFO -  * Restarting with stat
+2025-07-02 16:25:14,600 - WARNING -  * Debugger is active!
+2025-07-02 16:25:14,608 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:25:15,050 - WARNING -  * Debugger is active!
+2025-07-02 16:25:15,062 - INFO -  * Debugger PIN: 106-822-499
+2025-07-02 16:25:19,867 - INFO - 127.0.0.1 - - [02/Jul/2025 16:25:19] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-07-02 16:25:20,103 - INFO - Nhận được câu hỏi từ client: 'đăng nhập'
+2025-07-02 16:25:22,604 - INFO - 127.0.0.1 - - [02/Jul/2025 16:25:22] "POST /api/chat HTTP/1.1" 200 -
